@@ -1,4 +1,4 @@
-### Bonjour, je suis Idris 👋
+### Bonjour, je suis Idris 
 
 Étudiant en Master 2 Finance Digitale (ISM Dakar), je fais du **reporting et de l'analyse BI** : je transforme des données en tableaux de bord clairs, utiles à la décision.
 
